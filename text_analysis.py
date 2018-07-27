@@ -5,9 +5,6 @@ from clean_data_helper import load_and_clean_data
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 
-
-# Reference: https://buhrmann.github.io/tfidf-analysis.html
-
 def top_tfidf_feats(row, features, top_n=25):
 
     topn_ids = np.argsort(row)[::-1][:top_n]
