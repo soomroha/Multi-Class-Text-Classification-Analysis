@@ -42,13 +42,13 @@ Linear SVC: Mean Accuracy: 0.849241 Standard Deviation: 0.045773
 ## Confusion Matrices
 
 
-![figure_1](https://user-images.githubusercontent.com/38365732/43303591-63d16e02-913e-11e8-9010-2028a10600e2.png)
+![figure_1](https://user-images.githubusercontent.com/38365732/43303754-4270a5c4-913f-11e8-8a36-752858ca63ef.png)
 
-![figure_1](https://user-images.githubusercontent.com/38365732/43303617-8432dc76-913e-11e8-9272-c150708f2f33.png)
+![figure_1](https://user-images.githubusercontent.com/38365732/43303790-6d9979e2-913f-11e8-927e-fa4d7be2a3bc.png)
 
-![figure_1](https://user-images.githubusercontent.com/38365732/43303638-a0d64e30-913e-11e8-9137-6e9848888867.png)
+![figure_1](https://user-images.githubusercontent.com/38365732/43303814-8814826c-913f-11e8-813b-3dfd988de47d.png)
 
-![figure_1](https://user-images.githubusercontent.com/38365732/43303538-2a32e5d6-913e-11e8-8306-0627752585e5.png)
+![figure_1](https://user-images.githubusercontent.com/38365732/43303855-afda5682-913f-11e8-8e00-a4d4e1456720.png)
 
 References:
 
