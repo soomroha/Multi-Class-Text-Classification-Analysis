@@ -39,7 +39,7 @@ Linear SVC: Mean Accuracy: 0.849241 Standard Deviation: 0.045773
 
 ![figure_1](https://user-images.githubusercontent.com/38365732/43301490-7efdc74e-9133-11e8-809f-15925c5b5889.png)
 
-## Confusion Matrices
+## Confusion Matrices of the Algorithms
 
 
 ![figure_1](https://user-images.githubusercontent.com/38365732/43303754-4270a5c4-913f-11e8-8a36-752858ca63ef.png)
