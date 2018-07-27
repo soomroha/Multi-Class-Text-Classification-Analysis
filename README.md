@@ -1,5 +1,7 @@
 # Multi-Class-Text-Classification-Analysis
 
+Loading and cleaning the dataset
+
 ```python
 df = pd.read_csv('headlines.csv')
 df = df[['CATEGORY','TITLE']]
